@@ -23,7 +23,7 @@ The goal of this project is to understand customer purchasing patterns, identify
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/reemashraf-insights/Customer-Behavior-Analysis-Excel/blob/main/Customers%20Superstore%20Dashboard.png)
 
 ---
 
