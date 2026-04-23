@@ -1,1 +1,50 @@
-# Customer-Behavior-Analysis-Excel
+# 👥 Customer Behavior Analysis (Excel Dashboard)
+
+An interactive Excel dashboard designed to analyze customer behavior, identify high-value customers, and uncover patterns in purchasing activity.
+
+This project demonstrates my ability to turn raw data into clear, actionable insights that drive business decisions.
+
+---
+
+## 🎯 Objective
+
+The goal of this project is to understand customer purchasing patterns, identify key customer segments, and evaluate how customer behavior impacts overall sales performance.
+
+---
+
+## 🛠 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Slicers
+* Data Visualization
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+
+## 📈 Key Insights
+
+* A small percentage of customers contributes a large portion of total revenue (Pareto Principle).
+* Repeat customers generate the majority of transactions, indicating strong customer retention.
+* High-value customers are the main drivers of revenue and business growth.
+* Customer behavior varies significantly across segments, highlighting opportunities for targeted strategies.
+
+---
+
+## 💡 Recommendations
+
+* Focus on retaining high-value customers through loyalty strategies.
+* Target frequent buyers with personalized offers to maximize revenue.
+* Identify and nurture potential high-value customers.
+* Optimize marketing strategies based on customer segmentation.
+
+---
+
+## 🔗 Explore the Interactive Dashboard
+
+[🔗 Explore the Interactive Dashboard](https://1drv.ms/x/c/e8b0d95267705a33/IQDKqv1aFfauS5yWEt7RGP-JAb8deordWPzB9p2LoVsP5UU?e=lgX4bi)
