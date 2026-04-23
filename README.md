@@ -29,10 +29,10 @@ The goal of this project is to understand customer purchasing patterns, identify
 
 ## 📈 Key Insights
 
-* A small percentage of customers contributes a large portion of total revenue (Pareto Principle).
-* Repeat customers generate the majority of transactions, indicating strong customer retention.
-* High-value customers are the main drivers of revenue and business growth.
-* Customer behavior varies significantly across segments, highlighting opportunities for targeted strategies.
+* Top customers contribute a disproportionate share of total revenue.
+* Repeat customers generate the majority of transactions, indicating strong retention.
+* High-value customers are the main drivers of business growth.
+* Customer behavior varies across segments, highlighting opportunities for targeted strategies.
 
 ---
 
