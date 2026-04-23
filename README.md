@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard designed to analyze customer behavior, identify high-value customers, and uncover patterns in purchasing activity.
 
-This project demonstrates my ability to turn raw data into clear, actionable insights that drive business decisions.
+This project demonstrates my ability to transform raw data into actionable insights and uncover the customer segments that drive the majority of business revenue.
 
 ---
 
@@ -29,10 +29,13 @@ The goal of this project is to understand customer purchasing patterns, identify
 
 ## 📈 Key Insights
 
-* Top customers contribute a disproportionate share of total revenue.
-* Repeat customers generate the majority of transactions, indicating strong retention.
-* High-value customers are the main drivers of business growth.
-* Customer behavior varies across segments, highlighting opportunities for targeted strategies.
+* Top customers contribute a disproportionate share of total revenue, making them the primary drivers of business success.
+* Repeat customers generate the majority of transactions, indicating strong retention and long-term customer value.
+* Customer purchasing behavior is highly uneven, with a clear gap between low-frequency and high-frequency buyers.
+* High-value customer segments play a critical role in revenue growth and overall performance.
+* Not all customers have equal business impact, highlighting the importance of targeted customer strategies.
+
+These insights help businesses focus on high-value customers, improve retention strategies, and maximize revenue growth.
 
 ---
 
